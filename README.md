@@ -1,4 +1,4 @@
-[![MasterHead](https://www.goodrequest.com/_next/image?url=https%3A%2F%2Fgoodrequest-web-development.s3.eu-central-1.amazonaws.com%2F621cd8cab7c447c3b05a5157_Ako_20na_20_Vy_CC_81voj_20_Android_20aplika_CC_81cii_CC_81_20_Tipy_20a_20na_CC_81vody_20pre_20developerov_e2e1b4f7de.jpg&w=3840&q=75)](https://narendra1022.io)
+[![MasterHead](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnguhwk47W9raGQqORBAM_gYWjo3Pd5CFodlPcXvNBQJRWrAcmOjHoYv59mgwdafmqSyBV2dOSGFvXy2iGVbLJzxX5OSqjicFX9mosSnCMoJa6goUl8SBxRr_6Wokpt1xEC61zZgRuqJLtmAgdpvSZ-64kOqnmhI-Cit218cdYpjuz8LA6PKEZRDIe/s1600/Android-io-spotlight-modern-android-development-header.png)](https://narendra1022.io)
 <h1 align="center">Hi 👋, I'm Narendra</h1>
 <h3 align="center">A passionate app developer from India</h3>
 
