@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://narendra1022.io)
+[![MasterHead](https://media.licdn.com/dms/image/C4D16AQGxF8XrdFEupw/profile-displaybackgroundimage-shrink_350_1400/0/1596202285848?e=1691020800&v=beta&t=ep1C0Cqv_BRLS5wuALvkMf6Dq2At2eNzC6eyG858Mlg)](https://narendra1022.io)
 <h1 align="center">Hi 👋, I'm Narendra</h1>
 <h3 align="center">A passionate app developer from India</h3>
 
