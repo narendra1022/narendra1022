@@ -2,8 +2,8 @@
 <h1 align="center">Hi 👋, I'm Narendra</h1>
 <h3 align="center">A passionate app developer from India</h3>
 
-<img align="right" alt="Coding" width="400" src="https://developer.android.com/static/guide/practices/ui_guidelines/images/article_icon_adaptive.gif">
-
+<!-- <img align="right" alt="Coding" width="400" src="https://developer.android.com/static/guide/practices/ui_guidelines/images/article_icon_adaptive.gif">
+ -->
 - 🔭 I’m currently working on **ZenithRing**
 
 - 🌱 I’m currently learning **BLE,Flutter and Dart**
