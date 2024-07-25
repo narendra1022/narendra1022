@@ -4,11 +4,10 @@
 
 <!-- <img align="right" alt="Coding" width="400" src="https://developer.android.com/static/guide/practices/ui_guidelines/images/article_icon_adaptive.gif">
  -->
-- 🔭 I’m currently working on **ZenithRing**
 
-- 🌱 I’m currently learning **BLE,Flutter and Dart**
+- 🌱 I’m currently learning **Spring Boot and jetpack compose**
 
-- 💬 Ask me about **Android and Cross-platform mobile development**
+- 💬 Ask me about **Android mobile app development**
 
 - 📫 How to reach me **narendramadugula2004@gmail.com**
 
