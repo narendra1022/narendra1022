@@ -5,7 +5,6 @@
 <!-- <img align="right" alt="Coding" width="400" src="https://developer.android.com/static/guide/practices/ui_guidelines/images/article_icon_adaptive.gif">
  -->
 
-- 🌱 I’m currently learning **jetpack compose**
 
 - 💬 Ask me about **Android mobile app development**
 
